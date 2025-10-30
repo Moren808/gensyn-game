@@ -1,0 +1,5 @@
+{
+  "name": "Ant Blaster: Verify or Die",
+  "description": "A top-down shooter where you play as an ant soldier defending the Gensyn Data Hive's verification core from corrupt packets (bees). Blast enemies, collect data orbs, and upgrade your abilities to achieve maximum proof throughput.",
+  "requestFramePermissions": []
+}
